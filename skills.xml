@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <skills>
+      <CmdLinux>Копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса</CmdLinux>
+      <DevTools>
+         <element>Google Chrome</element>
+         <element>FireFox</element>
+      </DevTools>
+      <HTTP>
+         <element>Методы запросов</element>
+         <element>Коды ответов</element>
+         <element>Структура запросов и ответов</element>
+      </HTTP>
+      <Postman>
+         <element>JS</element>
+         <element>Автотесты API</element>
+      </Postman>
+      <Sniffers>
+         <element>Charlse</element>
+         <element>Fiddler</element>
+      </Sniffers>
+      <VPN>Как работает, зачем нужен, как использовать, варианты инструментов</VPN>
+   </skills>
+</root>
