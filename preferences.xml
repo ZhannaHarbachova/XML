@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-   <Favorite_country>Швеция</Favorite_country>
-   <Favorite_food>Овощной салат</Favorite_food>
    <Favorite_movie>Список Шиндлера</Favorite_movie>
-   <Favorite_season>Лето</Favorite_season>
    <Favorite_serial>Фарго</Favorite_serial>
+   <Favorite_food>Овощной салат</Favorite_food>
+   <Favorite_season>Лето</Favorite_season>
+   <Favorite_country>Швеция</Favorite_country>
 </root>
