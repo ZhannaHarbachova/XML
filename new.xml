@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-   <Age>35</Age>
    <Name>Горбачёва Жанна Вадимовна</Name>
+   <Age>35</Age>
    <Number_of_pets>2</Number_of_pets>
    <Salary>1000000</Salary>
 </root>
