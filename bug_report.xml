@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-   <ActualResult>Ссылка на аватар не рабочая, из-за чего вместо превью аватара отображается иконка битого изображения и ФИ пользователя, фамилия при этом выходит за пределы меню</ActualResult>
-   <AdditionalInformation>Воспроизводится также в сайдбаре</AdditionalInformation>
-   <Attachments>
-      <element>https://disk.yandex.com/i/Eqm7bUYA1TupQw</element>
-      <element>https://disk.yandex.com/i/gKOaceUCFIdt8g</element>
-   </Attachments>
-   <ExpectedResult>В тулбаре отображается заглушка аватара</ExpectedResult>
+   <Title>Ломается вёрстка превью заглушки аватара пользователя в статусе OPEN TO WORK</Title>
+   <Summary>Вместо заглушки аватара пользователя, без загруженного изображения, который находится в статусе Open to work, отображается иконка битого изображения</Summary>
+   <Project>Linkedin</Project>
+   <Component>
+      <element>Toolbar</element>
+      <element>Sidebar</element>
+   </Component>
+   <Severity>Minor</Severity>
+   <Status>Open</Status>
+   <Author>Harbachova Zhanna</Author>
    <Severity>Minor</Severity>
    <Steps>
       <Step1>Перейти на страницу профиля пользователя без аватара и в статусе OPEN TO WORK</Step1>
       <Step2>Проскроллить страницу вниз</Step2>
       <Step3>Обратить внимание на аватар пользователя в тулбаре под шапкой страницы</Step3>
    </Steps>
-   <Title>Ломается вёрстка превью заглушки аватара пользователя в статусе OPEN TO WORK</Title>
+   <ActualResult>Ссылка на аватар не рабочая, из-за чего вместо превью аватара отображается иконка битого изображения и ФИ пользователя, фамилия при этом выходит за пределы меню</ActualResult>
+   <ExpectedResult>В тулбаре отображается заглушка аватара</ExpectedResult>
+   <AdditionalInformation>Воспроизводится также в сайдбаре</AdditionalInformation>
+   <AdditionalInformation>Воспроизводится также в сайдбаре</AdditionalInformation>
+   <Attachments>
+      <element>https://disk.yandex.com/i/Eqm7bUYA1TupQw</element>
+      <element>https://disk.yandex.com/i/gKOaceUCFIdt8g</element>
+   </Attachments>
 </root>
